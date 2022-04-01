@@ -1,0 +1,13 @@
+#brand-logo {
+  /*font-size: 34px;*/
+  width: 60px;
+}
+
+#app-navbar {
+  background: linear-gradient(60deg, rgba(84,58,183,1) 0%, rgba(0,172,193,1) 90%);
+}
+
+#titre_logo {
+  width: 200px;
+}
+
